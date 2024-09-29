@@ -1,0 +1,5 @@
+
+    <edges>
+        <node id="n1" x="50.00" y="0.00" type="priority"/>
+        <node id="n2" x="-50.00" y="0.00" type="priority"/>
+    </edges>
